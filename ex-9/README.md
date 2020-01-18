@@ -1,0 +1,1 @@
+Using react-redux to increment or decrement a counter.

@@ -1,0 +1,1 @@
+Creating a component using React.Fragment for encapsulation.

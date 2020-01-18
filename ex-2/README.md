@@ -1,0 +1,1 @@
+Creating 2 components inside a file.

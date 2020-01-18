@@ -1,0 +1,1 @@
+Creating a functional component that has another function inside it.
